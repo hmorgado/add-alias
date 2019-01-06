@@ -21,3 +21,5 @@ $ .env/bin/pyinstaller --onefile addalias.py
 $ dist/addalias gs 'git status'
 Added new alias: alias gs='git status'
 ```
+
+### remember to source your ~/.bashrc file afterwards.
