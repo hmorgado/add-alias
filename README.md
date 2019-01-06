@@ -22,4 +22,4 @@ $ dist/addalias gs 'git status'
 Added new alias: alias gs='git status'
 ```
 
-### remember to source your ~/.bashrc file afterwards.
+### Remember to source your ~/.bashrc file afterwards.
