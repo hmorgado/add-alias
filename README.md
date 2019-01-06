@@ -18,6 +18,6 @@ $ virtualenv --python=$(which python3.5) .env
 $ . .env/bin/activate
 $ pip install -r requirements.txt
 $ .env/bin/pyinstaller --onefile addalias.py
-$ .dist/addalias gs 'git status'
+$ dist/addalias gs 'git status'
 Added new alias: alias gs='git status'
 ```
